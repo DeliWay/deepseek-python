@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: deepseek
+Version: 0.2.0
+Summary: Python клиент для DeepSeek Chat API с кешированием и форматированием
+Home-page: https://github.com/yourusername/deepseek-python
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.25.0
+Requires-Dist: aiohttp>=3.9.0
+Requires-Dist: markdown>=3.3.0
+Requires-Dist: autopep8>=2.0.0
